@@ -7,7 +7,7 @@ title = "Hi! This is Júlio Ballot"
 author = "Júlio Ballot"
 description = "Call me Ballot"
 profilePicture = "images/profile.jpg"
-
+favicon = "favicons/"
 
 ## Math settings
 [params.math]
