@@ -1,7 +1,7 @@
 ---
 title: "Jenkins Multibranch Pipeline"
 date: 2020-08-16T13:17:52-03:00
-draft: false
+draft: true
 ---
 
 This tutorial is going to be a simple and straightforward exmplanation about using Multibranch Pipeline project on Jenkins
