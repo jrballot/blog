@@ -1,6 +1,7 @@
 baseURL = "https://jrballot.github.io/"
 languageCode = "en-us"
 theme = "anatole"
+enableRobotsTXT = true
 
 [params]
 title = "Hi! This is Júlio Ballot"
