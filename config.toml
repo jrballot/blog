@@ -5,7 +5,6 @@ theme = "anatole"
 [params]
 title = "Hi! This is Júlio Ballot"
 author = "Júlio Ballot"
-description = "Call me Ballot"
 profilePicture = "images/profile.jpg"
 favicon = "favicons/"
 
@@ -37,6 +36,7 @@ url = "mailto:julio.ballot@gmail.com"
   identifier = "home"
   weight = 100
   url = "/"
+
 
   [[menu.main]]
   name = "Posts"
