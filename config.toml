@@ -51,3 +51,15 @@ url = "mailto:julio.ballot@gmail.com"
   identifier = "about"
   url = "/about/"
 
+
+[markup]
+  [markup.highlight]
+    style="tango"
+    tabWidth=4
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
