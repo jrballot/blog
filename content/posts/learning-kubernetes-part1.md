@@ -2,6 +2,10 @@
 title: "Learning Kubernetes Part 1"
 date: 2020-08-17T08:05:17-03:00
 draft: false
+tags: [
+  "kubernetes",
+  "k8s",
+]
 ---
 
 Hi!,
