@@ -1,13 +1,21 @@
 baseURL = "https://jrballot.github.io/"
-languageCode = "en-us"
-theme = "anatole"
+title = "Júlio Ballot"
+description = "This is my space"
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+gootnoteReturnLinkContents = "^"
+
+#theme = "anatole"
+theme = "hugo-theme-chunky-poster"
 enableRobotsTXT = true
+paginate = 2
 
 [params]
-title = "Hi! This is Júlio Ballot"
-author = "Júlio Ballot"
-profilePicture = "images/profile.jpg"
-favicon = "favicons/"
+  author = "Júlio Ballot"
+#  profilePicture = "images/profile.jpg"
+#  homepageImage = "images/external-content.duckduckgo.com.jpeg"
+  favicon = "favicons/"
 
 ## Math settings
 [params.math]
@@ -15,39 +23,43 @@ enable = false  # options: true, false. Enable math support globally, default: f
 use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
-[[params.socialIcons]]
-icon = "fa-linkedin"
-title = "LinkedIn"
-url = "https://www.linkedin.com/in/julioballot/"
-
-[[params.socialIcons]]
-icon = "fa-github"
-title = "GitHub"
-url = "https://github.com/jrballot"
-
-[[params.socialIcons]]
-icon = "fa-envelope"
-title = "e-mail"
-url = "mailto:julio.ballot@gmail.com"
+#[[params.socialIcons]]
+#icon = "fa-linkedin"
+#title = "LinkedIn"
+#url = "https://www.linkedin.com/in/julioballot/"
+#
+#[[params.socialIcons]]
+#icon = "fa-github"
+#title = "GitHub"
+#url = "https://github.com/jrballot"
+#
+#[[params.socialIcons]]
+#icon = "fa-envelope"
+#title = "e-mail"
+#url = "mailto:julio.ballot@gmail.com"
+[params.social]
+  linkedin = "https://www.linkedin.com/in/julioballot/"
+  github = "https://github.com/jrballot"
+  email = "julio.ballot@gmail.com"
 
 [menu]
 
   [[menu.main]]
   name = "Home"
   identifier = "home"
-  weight = 100
+  weight = 10
   url = "/"
 
 
   [[menu.main]]
   name = "Posts"
-  weight = 200
+  weight = 0
   identifier = "posts"
   url = "/posts/"
 
   [[menu.main]]
   name = "About"
-  weight = 300
+  weight = 0
   identifier = "about"
   url = "/about/"
 
