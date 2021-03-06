@@ -4,6 +4,8 @@ date: 2020-08-16T14:07:52-03:00
 draft: false
 ---
 
+{{< figure src="/images/profile.jpg" height=50% width=50% >}}
+
 
 Júlio is a Computer Engineer based on São Paulo, Brazil. He has being working with Open Source solutions and GNU/Linux systems since 2008. All started around 2005, during high-school,  when he was attending a basic course of informatics and fall for two great areas of technologies: Network and Operational Systems. At a class extra class he was presented to a **Debian 4.0 Etch** system, which became your main distribution since.
 
