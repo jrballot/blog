@@ -13,6 +13,7 @@ paginate = 2
 
 [params]
   author = "Júlio Ballot"
+  description = "... the advance of a non existent necessity"
 #  profilePicture = "images/profile.jpg"
 #  homepageImage = "images/external-content.duckduckgo.com.jpeg"
   favicon = "favicons/"
