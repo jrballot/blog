@@ -14,6 +14,8 @@ In this post I will start a series about my process learning Kubernetes. This is
 
 So lets start ...
 
+<!--more-->
+
 # First, the concepts
 
 One of the things that I like to do before deep dive in any piece of technology, is **GET THE CONCEPTS RIGHT** and by that I mean learn the fundamentals basics that distinguish this tool you are learning from others that you already use. Understanding the basic components of it will help you on not getting lost and discussing about advanced topics. Learn to  work, talk and explain things to others learning the same tool can help you a lot in this step.
